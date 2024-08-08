@@ -1,5 +1,4 @@
 Basic project about Hospital Management.
-!! Project still in working.. !!
 
 This project include:
 - Main Menu:
